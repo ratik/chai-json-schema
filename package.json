@@ -54,8 +54,5 @@
     "mocha-unfunk-reporter": "~0.4.0",
     "grunt-bump": "0.0.11",
     "requirejs": "~2.1.11"
-  },
-  "peerDependencies": {
-    "chai": ">= 1.6.1 < 2"
   }
 }
